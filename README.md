@@ -1,9 +1,10 @@
-# GPT6.0 介绍：社区叫法与官方命名
+# GPT6.0介绍：社区叫法、能力与试用
 
 中文说明页关键词：**gpt6.0介绍**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-0-jieshao/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：系统介绍GPT6.0社区语境、能力方向与试用建议。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
